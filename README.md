@@ -1,6 +1,6 @@
 # Personalized Study Planner & Progress Tracker
-## Video: 
-
+## Video: [
+](https://youtu.be/0OAW2ghhEJk?si=TGhdpBQXiTQGmgyK)
 ## Overview
 The **Personalized Study Planner & Progress Tracker** is a web-based tool built using **Streamlit** to help students create study plans, track progress, and optimize their study sessions. This application enables students to calculate their daily study goals, visualize learning progress, and receive recommendations on study sessions based on available time and difficulty level.
 
